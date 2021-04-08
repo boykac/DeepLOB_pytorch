@@ -1,5 +1,3 @@
-# DeepLOB_pytorch
-
 # Requirements
 pytorch>=0.4.1
 
